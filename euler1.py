@@ -81,7 +81,22 @@
 ##print(g)
 
 ##pbrlm7
-##not solved
+##def is_prime(num):
+##    for i in range(2, int(num**0.5) + 1):
+##        if num % i == 0:
+##            return False
+##    return True
+##
+##
+##prime_num = 0
+##num = 1
+##while prime_num != 10001:
+##    num += 1
+##    if is_prime(num):
+##        prime_num += 1
+##
+##print(num)
+
 
 
 
